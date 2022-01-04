@@ -10,9 +10,7 @@ Allows to exit from Cordova app programmatically.
 - Android
 - iOS
 - Windows Phone (not tested)
-- Browser*
-
-\* _Only for development purpose._
+- Browser
 
 ## Usage
 
