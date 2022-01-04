@@ -46,4 +46,17 @@
 
     <source-file src="src/wp/Exit.cs" />
   </platform>
+        
+  <!-- browser -->
+  <platform name="browser">
+    <config-file target="config.xml" parent="/*">
+      <feature name="Exit">
+        <param name="browser-package" value="Exit" />
+      </feature>
+    </config-file>
+          
+    <js-module src="src/browser/Exit.js" name="Exit">
+      <runs />
+    </js-module>
+  </platform>
 </plugin>
