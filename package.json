@@ -1,13 +1,14 @@
 {
   "name": "cordova-plugin-exit",
   "version": "1.0.2",
-  "description": "Cordova plugin for exiting the app programmatically for Android, iOS and WP",
+  "description": "Cordova plugin for exiting the app programmatically for Android, iOS, WP and Browser",
   "cordova": {
     "id": "cordova-plugin-exit",
     "platforms": [
       "android",
       "ios",
-      "wp8"
+      "wp8",
+      "browser"
     ]
   },
   "repository": {
