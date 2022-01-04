@@ -30,3 +30,4 @@ Which is a refactored collection of these plugins/projects:
 
 - Android & WP: https://github.com/gaqzi/cordova-plugin-exitapp
 - iOS: https://github.com/FRD49/iOS-ExitApp
+- Browser: https://github.com/huangang/cordova-plugin-app-exit
