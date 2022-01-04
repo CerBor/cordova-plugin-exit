@@ -1,8 +1,7 @@
 
 module.exports = {
   exit: function () {
-    alert('App will be reload');
-    window.location.reload();
+    window.history.back();
   }
 };
 
